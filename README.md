@@ -4,6 +4,8 @@
 - `네이버 커넥트재단` 부스트캠프 웹・모바일 9기 - iOS (2024.08. ~ 2024.12.)
 - 연합동아리 `YAPP` 26기 - iOS (2025.05. ~ 2025.08.)
   - `YAPP` 26기 최우수 프로젝트 - [`Reed`](https://linktr.ee/reed_official)
+- 연합동아리 `YAPP` 27기 - iOS (2025.11. ~ 2026.03.)
+  - `YAPP` 27기 대상 프로젝트 - [`Keepliuv`](https://keepiluv.framer.website/)
 
 <br/>
 
